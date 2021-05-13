@@ -8,13 +8,13 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushic2899)
 ![GitHub followers](https://img.shields.io/github/followers/ayushic2899?label=Follow&style=social) ![Profile views](https://github.com/ayushic2899) 
 
-- 🔭 **I’m currently working on Health Care Dataset.**
-- 🌱 **I’m currently learning Data Structure and Algorithms and Deep Learning**
-- 👯 **I’m looking to collaborate on Real world projects.**
-- 💬 **Ask me about Any of your life problems, I will try to give the best way out of it.**
-- 📫 **How to reach me: 2809ayushic@gmail.com**
-- 😄 **Pronouns: She/Her**
-- ⚡ **Fun fact: BETTER LATE THAN NEVER.**
+- 🔭 I’m currently working on Health Care Dataset.
+- 🌱 I’m currently learning Data Structure and Algorithms and Deep Learning.
+- 👯 I’m looking to collaborate on Real world projects.
+- 💬 Ask me about Any of your life problems, I will try to give the best way out of it.
+- 📫 How to reach me: 2809ayushic@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: BETTER LATE THAN NEVER.
 
 
 <!--
