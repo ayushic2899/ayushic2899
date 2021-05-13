@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋🏻, I'm Ayushi Choudhary!!</h1>
+<h1 align="center">Hi there👋🏻, I'm Ayushi Choudhary!!</h1>
 
 <h2 align="center">A Machine Learning, Deep Learning & Data Science enthusiast.
 <br><br>
-  
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/ayushi-choudhary-751410181/)
+[![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://mobile.twitter.com/home)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
+
 <!--
 **ayushic2899/ayushic2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
