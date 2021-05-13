@@ -6,6 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ayushic2899-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi-choudhary-751410181/)](https://www.linkedin.com/in/ayushi-choudhary-751410181/)
 [![Twitter Badge](https://img.shields.io/badge/-ayushi2899-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/home)](https://mobile.twitter.com/home)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushic2899)
+![GitHub followers](https://img.shields.io/github/followers/ayushic2899?label=Follow&style=social) ![Profile views](https://github.com/ayushic2899) 
+
 
 <!--
 **ayushic2899/ayushic2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
