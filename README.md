@@ -8,10 +8,13 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushic2899)
 ![GitHub followers](https://img.shields.io/github/followers/ayushic2899?label=Follow&style=social) ![Profile views](https://github.com/ayushic2899) 
 
-- 💬 Ask me about : Any of your life problems, I will try hard to give the best way out of it. 
-- 📫 How to reach me: [sharma.jivanshi@gmail.com]
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Come and join me on this server, if you are a bibliophile too: https://discord.gg/jNCbrWJqHZ
+- 🔭 **I’m currently working on Health Care Dataset.**
+- 🌱 **I’m currently learning Data Structure and Algorithms and Deep Learning**
+- 👯 **I’m looking to collaborate on Real world projects.**
+- 💬 **Ask me about Any of your life problems, I will try to give the best way out of it.**
+- 📫 **How to reach me: 2809ayushic@gmail.com**
+- 😄 **Pronouns: She/Her**
+- ⚡ **Fun fact: BETTER LATE THAN NEVER.**
 
 
 <!--
@@ -28,10 +31,7 @@
 - ⚡ **Fun fact: BETTER LATE THAN NEVER.**
 
 y.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you</b> 😊</em>
-
-<p align="center">
-  <img src="https://github.com/AVS/AVS/blob/master/AVS.gif">
-</p>
+ 
 -->
 ## GIT STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ayushic2899&theme=radical" />
