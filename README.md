@@ -22,6 +22,8 @@
 - 😄 **Pronouns: She/Her**
 - ⚡ **Fun fact: BETTER LATE THAN NEVER.**
 
+y.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you</b> 😊</em>
+
 <p align="center">
   <img src="https://github.com/AVS/AVS/blob/master/AVS.gif">
 </p>
