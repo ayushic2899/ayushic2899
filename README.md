@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Ayushi Choudhary!
 
+<h2 align="center">A Machine Learning, Deep Learning & Data Science enthusiast.
+<br><br>
+  
 <!--
 **ayushic2899/ayushic2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +16,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: BETTER LATE THAN NEVER.
 -->
+
+## GIT STATS
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ayushic2899&theme=radical" />
 
 
