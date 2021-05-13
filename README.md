@@ -14,8 +14,6 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Here are some ideas to get you started:
-
 - 🔭 **I’m currently working on Health Care Dataset.**
 - 🌱 **I’m currently learning Data Structure and Algorithms and Deep Learning**
 - 👯 **I’m looking to collaborate on Real world projects.**
@@ -23,6 +21,7 @@
 - 📫 **How to reach me: 2809ayushic@gmail.com**
 - 😄 **Pronouns: She/Her**
 - ⚡ **Fun fact: BETTER LATE THAN NEVER.**
+
 <p align="center">
   <img src="https://github.com/AVS/AVS/blob/master/AVS.gif">
 </p>
