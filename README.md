@@ -8,6 +8,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushic2899)
 ![GitHub followers](https://img.shields.io/github/followers/ayushic2899?label=Follow&style=social) ![Profile views](https://github.com/ayushic2899) 
 
+- 💬 Ask me about : Any of your life problems, I will try hard to give the best way out of it. 
+- 📫 How to reach me: [sharma.jivanshi@gmail.com]
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Come and join me on this server, if you are a bibliophile too: https://discord.gg/jNCbrWJqHZ
+
 
 <!--
 **ayushic2899/ayushic2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
