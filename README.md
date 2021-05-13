@@ -30,5 +30,8 @@ y.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect
 -->
 ## GIT STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ayushic2899&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushic2899&layout=compact)](https://github.com/ayushic2899/github-readme-stats)
 
+
+<!--
 
