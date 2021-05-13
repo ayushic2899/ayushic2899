@@ -21,7 +21,6 @@
 - 📫 **How to reach me: 2809ayushic@gmail.com**
 - 😄 **Pronouns: She/Her**
 - ⚡ **Fun fact: BETTER LATE THAN NEVER.**
--->
 
 ## GIT STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ayushic2899&theme=radical" />
