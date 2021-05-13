@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ayushi Choudhary!
+<h1 align="center">Hi 👋🏻, I'm Ayushi Choudhary!!</h1>
 
 <h2 align="center">A Machine Learning, Deep Learning & Data Science enthusiast.
 <br><br>
